@@ -6,14 +6,14 @@ List<Map<String, dynamic>> videoPostsLocalList = [
     'views': 1523,
   },
   {
-    'name': 'Que borroso veo todo!',
-    'videoUrl': 'assets/videos/3.mp4',
+    'name': 'Que borroso veooo!! UwU',
+    'videoUrl': 'assets/videos/2.mp4',
     'likes': 21564320,
     'views': 123563,
   },
   {
     'name': '¿Esto es trigo? que interesante',
-    'videoUrl': 'assets/videos/4.mp4',
+    'videoUrl': 'assets/videos/3.mp4',
     'likes': 320,
     'views': 2300,
   },
